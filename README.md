@@ -1,8 +1,8 @@
-# Week - NULL
-```Hafta veya Ödev Sayısı (2.Week)```
+# Week - 2
+```Hafta veya Ödev Sayısı (2)```
 
 # Homework 
-```To Do List``
+```To Do List```
 
 
 ## Homework Description
