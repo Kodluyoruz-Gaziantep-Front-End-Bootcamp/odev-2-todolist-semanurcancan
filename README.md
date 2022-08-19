@@ -18,6 +18,9 @@
 - They can also add items they receive frequently to the favorites list and add the item from the favorites list to the shopping list.
 - The user can also click on the element to mark that it has received the element. When the element is clicked, the element will be crossed out.
 
+## Project link
+[SHOPPING APP](https://shopping-list-app-lilac.vercel.app/)
+
 
 ## Author
 
